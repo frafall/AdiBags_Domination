@@ -7,6 +7,9 @@ Copyright 2016 Dia (mrdiablo@divine-pride.net)
 All rights reserved.
 
 Strings from: https://www.townlong-yak.com/framexml/live/GlobalStrings.lua
+
+Github: https://github.com/frafall/AdiBags_Domination
+Published on Curseforge: https://www.curseforge.com/wow/addons/adibags_domination
 --]]
 local _, ns = ...
 
